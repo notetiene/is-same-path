@@ -4,6 +4,8 @@
   "description": "🚷 Check that two directories resolve to the same path.",
   "main": "index.js",
   "scripts": {
+    "eslint": "eslint --format=node_modules/eslint-formatter-pretty ./index.js",
+    "test": "npm run eslint && ava"
   },
   "repository": {
     "type": "git",
