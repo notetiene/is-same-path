@@ -1,0 +1,20 @@
+{
+    "libs": [
+        "browser",
+        "jquery",
+        "ecma5",
+        "ecma6"
+    ],
+    "loadEagerly": [
+        "js/helpers.js"
+    ],
+    "plugins": {
+        "es_modules": {
+        },
+        "complete_strings": {
+        },
+        "node": {
+        }
+    },
+    "ecmaVersion": 6
+}

@@ -1,6 +1,6 @@
 # is-same-path
 
-> Check that two directories resolve to the same path.
+> 🚷 Check that two directories resolve to the same path.
 
 **_is-same-path_** is a simple function to check if two paths resolve
 to the same path.
