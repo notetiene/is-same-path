@@ -1,4 +1,4 @@
-# is-same-path
+# is-same-path [![Build Status](https://travis-ci.org/notetiene/is-same-path.svg?branch=master)](https://travis-ci.org/notetiene/is-same-path)
 
 > 🚷 Check that two directories resolve to the same path.
 
