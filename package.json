@@ -1,0 +1,28 @@
+{
+  "name": "is-same-path",
+  "version": "1.0.0",
+  "description": "🚷 Check that two directories resolve to the same path.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notetiene/is-same-path.git"
+  },
+  "keywords": [
+    "path",
+    "directory",
+    "no-walking"
+  ],
+  "author": "Etienne Prud’homme",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/notetiene/is-same-path/issues"
+  },
+  "homepage": "https://github.com/notetiene/is-same-path#readme",
+  "devDependencies": {
+    "ava": "*",
+    "eslint": "^3.19.0",
+    "eslint-formatter-pretty": "^1.1.0"
+  }
+}
